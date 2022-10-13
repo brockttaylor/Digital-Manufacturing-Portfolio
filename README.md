@@ -14,3 +14,5 @@ See project documents for details
 Making of food printers:
 - Worked in a small team over a period of 10 weeks to design, wire, manufacture, and test 6 food printers for use by over 100 students in Digital Manufacturing
 - Continued to work on food printers over the rest of the semester including upkeep and minor improvements based on user feedback
+
+See Food_Printers_Report for details
